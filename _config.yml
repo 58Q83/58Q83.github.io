@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   reposiitory: https://github.com/58Q83/58Q83.github.io.git
-  branch: main
+  branch: master
