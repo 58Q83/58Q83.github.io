@@ -6,7 +6,6 @@
         "textures.1024/01.png",
         "textures.1024/02.png"
     ],
-    "pose": "../general/pose.json",
     "physics": "physics.json",
     "layout": {
         "center_x": 0,
